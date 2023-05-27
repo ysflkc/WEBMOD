@@ -2,7 +2,7 @@
   "payloads": [
     {
       "name": "Hekate",
-      "version": "v6.0.4",
+      "version": "v6.0.4 - recommended",
       "path": "payloads/hekate-v6.0.4.bin"
     },
     {
