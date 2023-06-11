@@ -2,8 +2,8 @@
   "payloads": [
     {
       "name": "Hekate",
-      "version": "v6.0.4 - recommended",
-      "path": "payloads/hekate-v6.0.4.bin"
+      "version": "v6.0.5 - recommended",
+      "path": "payloads/hekate-v6.0.5.bin"
     },
     {
       "name": "Atmosphère",
